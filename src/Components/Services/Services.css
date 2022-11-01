@@ -1,0 +1,26 @@
+.blur2 {
+  position: absolute;
+  width: 32rem;
+  height: 18rem;
+  border-radius: 50%;
+  background: #edd0ff;
+  z-index: -9;
+  top: -18%;
+  left: 46%;
+  filter: blur(72px);
+}
+.cards {
+  position: relative;
+  top: 5px;
+  left: 480px;
+}
+.cards2 {
+  position: relative;
+  top: -95px;
+  left: 20px;
+}
+.cards3 {
+  position: relative;
+  top: -215px;
+  left: 430px;
+}
